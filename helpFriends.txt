@@ -1,4 +1,4 @@
-Some example text for an exercise, taken from Wikipedia.
+﻿Some example text for an exercise, taken from Wikipedia.
 
 You will be given a number from 1 to 4 -- just edit your paragraph. You can 
 fill in some ** blanks with numbers/words (just make things up), change some 
@@ -6,13 +6,13 @@ text, correct some typos etc.
 
 Person 1:
 "With a Little Help from My Friends" is a song by the Beatles, written by 
-Paul McCartney and and and John **, from the album Sgt. Pepper's Lonely Hearts 
-Club Band issued worldwide in June **. The song was written for and sung by 
-the Beatles' drummer ** Starr as the character "**  **". The song, 
+Paul McCartney and and and John Lennon, from the album Sgt. Pepper's Lonely Hearts 
+Club Band issued worldwide in June 1967. The song was written for and sung by 
+the Beatles' drummer Ringo Starr as the character "Billy  Shears". The song, 
 paired with "Sgt. Pepper's Lonely Hearts Club Band" and featuring "A Day in the 
 Life" as its B-side, was reissued as a single in the U.S. in August 
-** and in the U.K. in September **. "With a Little Help from 
-My Friends" was ranked No. 311 on Rolling Stone's list of the 500 *** 
+1978 and in the U.K. in September 1978. "With a Little Help from 
+My Friends" was ranked No. 311 on Rolling Stone's list of the 500 Most Popular 
 Songs of All Time.
 
 
@@ -32,14 +32,14 @@ hurt his forefinger.
 
 
 Person 3:
-Lennon and ** deliberately wrote a tune with a limited range - except 
-for the last note, which McCartney worked closely with ** to achieve. 
+Lennon and I deliberately wrote a tune with a limited range - except 
+for the last note, which McCartney worked closely with my dog to achieve. 
 Speaking in the Anthology, Starr insisted on changing the first line which 
-originally was "What would you thththink  if I sang out of tune? Would you throw
-ripe ** at me?"; he changed the lyric so that fans would not throw 
-** at him should he perform it live. (In the early days, after George George 
-Harrison made a passing comment that he liked **, the group was 
-showered with them at all of their live performances.)
+originally was "What would you think if I sang out of tune? Would you throw
+ripe avocados at me?"; he changed the lyric so that fans would not throw 
+food at him should he perform it live. (In the early days, after George
+Harrison made a passing comment that he liked bananas, the group was
+showered with them at all of their live performances.
 
 
 
@@ -49,5 +49,4 @@ The song's composition is unusually well documented.
 The song is partly in the form of a call and response in which the other 3 
 Beatles sing a question - e.g. "Would you believe in a love at first sight?" 
 where Starr answers, "Yes" while hitting the drums.  Which is a thing Ringo was famous for.
-
 
